@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Domingues
-🚀 **`Software Engineering Student | Full Stack Developer | Problem Solver | Coffee Addict`**  
 
+🚀 **`Software Engineering Student | Full Stack Developer | Problem Solver | Coffee Addict`**  
 🇧🇷 Brazil
 
 ---
@@ -21,12 +21,16 @@ I am an **Analysis and Systems Development (ADS)** student focused on building d
 
 ---
 
-### 📈 GitHub Stats
+
+### 📈 My GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldominguess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldominguess&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldominguess&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldominguess&layout=compact&langs_count=7&theme=dark" />
 </p>
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldominguess&theme=dark)
 
 ---
 
