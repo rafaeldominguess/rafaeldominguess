@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Domingues
-
 🚀 **`Software Engineering Student | Full Stack Developer | Problem Solver | Coffee Addict`**  
+
 🇧🇷 Brazil
 
 ---
