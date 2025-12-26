@@ -17,17 +17,14 @@ I am an **Analysis and Systems Development (ADS)** student focused on building d
 
 ### 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github)
----
 
 ---
 
+### 📈 GitHub Stats
 
-### 📈 My GitHub Stats
+![Stats de Rafael](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaeldominguess&show_icons=true&theme=dark)
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldominguess&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldominguess&layout=compact&langs_count=7&theme=dark" />
-</p>
+![Linguagens de Rafael](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaeldominguess&layout=compact&theme=dark)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldominguess&theme=dark)
