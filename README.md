@@ -22,7 +22,8 @@ I am an **Analysis and Systems Development (ADS)** student focused on building d
 
 ### 📈 GitHub Stats
 
-![Stats de Rafael](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaeldominguess&show_icons=true&theme=dark)![Linguagens de Rafael](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaeldominguess&layout=compact&theme=dark)
+![Stats de Rafael](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaeldominguess&show_icons=true&theme=dark)
+![Linguagens de Rafael](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaeldominguess&layout=compact&theme=dark)
 
 
 ### 🔥 Streak Stats
